@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: content/Arishi_Resume.pdf
+        url: uploads/Arishi_Resume.pdf
     design:
       css_class: dark
       background:
