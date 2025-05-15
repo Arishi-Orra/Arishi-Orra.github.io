@@ -6,8 +6,8 @@ title: Arishi Orra
 name_pronunciation: Arishi Orra
 
 # Full name (for SEO)
-first_name: Arishi
-last_name: Orra
+first_name: 
+last_name: 
 
 # Status emoji
 status:
