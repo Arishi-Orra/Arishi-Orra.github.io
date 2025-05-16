@@ -64,7 +64,7 @@ education:
   - area: Masters Applied Mathematics
     institution: Indian Institute of Technology Mandi
     date_start: 2018-08-14
-    date_end: 2020-06-31
+    date_end: 2020-06-30
     summary: |
       GPA: 9.03/10
 
@@ -75,7 +75,7 @@ education:
   - area: BSc Honors in Mathenatics
     institution: University of Delhi
     date_start: 2014-07-01
-    date_end: 2017-06-31
+    date_end: 2017-06-30
     summary: |
       GPA: 75%
       
