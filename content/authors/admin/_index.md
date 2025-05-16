@@ -117,15 +117,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: code          # ✅ valid FA icon
       - name: Microsoft Office
         description: ''
         percent: 100
-        icon: file-excel
-      - name: Latex
+        icon: file-alt      # ✅ more reliable general doc icon
+      - name: LaTeX
         description: ''
         percent: 40
-        icon: book-open
+        icon: book          # ✅ safe and renders everywhere
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,15 +133,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: hiking        # ✅ actual Font Awesome free icon
       - name: Cricket
         description: ''
         percent: 100
-        icon: baseball-ball
+        icon: futbol        # ✅ soccer icon as workaround
       - name: Stock Trading
         description: ''
         percent: 80
-        icon: chart-line
+        icon: chart-line    # ✅ should render if FA is loaded
 
 languages:
   - name: English
