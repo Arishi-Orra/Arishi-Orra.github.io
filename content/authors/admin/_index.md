@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: Arishi Orra
+title: Arishi Orra
 
 # Name pronunciation (optional)
 name_pronunciation: Arishi Orra
