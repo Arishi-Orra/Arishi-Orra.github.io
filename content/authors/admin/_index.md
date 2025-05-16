@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Arishi Orra
+# title: Arishi Orra
 
 # Name pronunciation (optional)
 name_pronunciation: Arishi Orra
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Arishi
+last_name: Orra
 
 # Status emoji
 status:
