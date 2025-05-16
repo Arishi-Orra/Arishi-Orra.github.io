@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Scholar
+role: Ph.D. Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,12 +47,12 @@ profiles:
     url: https://orcid.org/0009-0006-7449-5829
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Reinforcement Learning
+  - Computational Finance
+  - Algorithmic Trading
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Computational Finance
     institution: Indian Institute of Technology Mandi
     date_start: 2021-08-07
     date_end: 2026-07-31
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. scholar under the [School of Mathematical & Statistical Sciences](https://smss.iitmandi.ac.in/index.php) at the [IIT Mandi](https://www.iitmandi.ac.in/) under the supervision of Prof. [Manoj Thakur](https://som.iitmandi.ac.in/people/faculty/manoj-thakur), specializing in Deep Reinforcement Learning with applications in financial decision-making. My research focuses on developing intelligent trading agents and portfolio optimization models that adapt to dynamic market conditions using advanced machine learning techniques. I am passionate about algorithmic trading, financial modeling, and building real-world AI systems that bridge the gap between theory and practice.
