@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Reinforcment Learning. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on applying Deep Reinforcement Learning (DRL) to solve complex financial decision-making problems. I develop intelligent agents for tasks such as algorithmic trading, investor-specific portfolio optimization, and risk-sensitive asset selection. By leveraging techniques like policy ensembles, reward shaping, Bayesian optimization, and meta-learning, my work aims to create robust, adaptive models capable of operating in dynamic and uncertain financial environments. The goal is to enhance the reliability and performance of automated financial systems using cutting-edge machine learning approaches.
         
         Please reach out to collaborate 😃
     design:
