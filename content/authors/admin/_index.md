@@ -121,7 +121,7 @@ skills:
       - name: Microsoft Office
         description: ''
         percent: 100
-        icon: 📑
+        icon: file-excel
       - name: Latex
         description: ''
         percent: 40
@@ -137,11 +137,11 @@ skills:
       - name: Cricket
         description: ''
         percent: 100
-        icon: 🏏
+        icon: baseball-ball
       - name: Stock Trading
         description: ''
         percent: 80
-        icon: 📈
+        icon: chart-line
 
 languages:
   - name: English
