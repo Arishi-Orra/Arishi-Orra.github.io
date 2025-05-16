@@ -49,6 +49,8 @@ profiles:
 interests:
   - Deep Reinforcement Learning
   - Computational Finance
+  - Machine Learning
+  - Portfolio Optimization
   - Algorithmic Trading
 
 education:
