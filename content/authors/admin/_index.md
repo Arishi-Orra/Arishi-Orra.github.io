@@ -3,7 +3,7 @@
 title: Arishi Orra
 
 # Name pronunciation (optional)
-name_pronunciation: Arishi Orra
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Arishi
