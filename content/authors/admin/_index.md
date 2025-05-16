@@ -55,7 +55,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: Indian Institute of Technology Mandi
     date_start: 2021-08-07
-    date_end: Present
+    date_end: 2026-07-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
