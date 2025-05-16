@@ -57,12 +57,12 @@ education:
   - area: PhD Computational Finance
     institution: Indian Institute of Technology Mandi
     date_start: 2021-08-07
-    date_end: 2026-07-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    date_end: ''
+   # summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+     # text: 'Read Thesis'
+     # url: 'https://example.com'
   - area: Masters Applied Mathematics
     institution: Indian Institute of Technology Mandi
     date_start: 2018-08-14
@@ -70,10 +70,10 @@ education:
     summary: |
       GPA: 9.03/10
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   Courses included:
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Honors in Mathenatics
     institution: University of Delhi
     date_start: 2014-07-01
@@ -81,33 +81,30 @@ education:
     summary: |
       GPA: 75%
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Project Associate
+    company_name: IIT Mandi
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2020-10-24
+    date_end: 2021-05-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Responsible for the development of decision support systems integrating parallel adaptive heuristic algorithms of large-scale multi-objective optimization problems.
+        
+  - position: Systems Engineer-CTO 
+    company_name: Tata Consultancy Services
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-08
+    date_end: 2020-10-20
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Worked as an AI and ML Researcher in the Incubation team at Tata Consultancy Services.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
