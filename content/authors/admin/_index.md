@@ -118,14 +118,14 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Microsoft Office
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: file-powerpoint
+      - name: Latex
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: book-open
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -134,22 +134,20 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cricket
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: Cricket
+      - name: Stock Trading
         description: ''
         percent: 80
-        icon: camera
+        icon: chart-line
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
