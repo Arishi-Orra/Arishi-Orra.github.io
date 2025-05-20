@@ -72,10 +72,6 @@ education:
       - **Thesis**: Financial Decision making using Machine Learning Techniques
       - **Supervisor**: Prof. [Manoj Thakur](https://som.iitmandi.ac.in/people/faculty/manoj-thakur)
 
-   #   Courses included:
-   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-   #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. Honours in Mathematics
     institution: University of Delhi
     date_start: 2014-07-01
