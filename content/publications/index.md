@@ -1,0 +1,27 @@
+---
+title: "Publications"
+type: page
+menu:
+  main:
+    name: Publications
+    weight: 40
+---
+
+<h1>Research Publications</h1>
+
+<ul>
+  <li>
+    <strong>Deep Reinforcement Learning for Financial Trading</strong><br>
+    Arishi Orra<br>
+    <em>Journal of Computational Finance</em>, 2023<br>
+    <a href="https://www.journalwebsite.com/paper/deep-rl-trading" target="_blank">View Paper</a>
+  </li>
+  <br>
+
+  <li>
+    <strong>Bayesian Optimization in Portfolio Design</strong><br>
+    Arishi Orra, Manoj Thakur<br>
+    <em>Finance and AI Symposium</em>, 2022<br>
+    <a href="https://www.conference.org/paper/bayes-portfolio" target="_blank">View Paper</a>
+  </li>
+</ul>
