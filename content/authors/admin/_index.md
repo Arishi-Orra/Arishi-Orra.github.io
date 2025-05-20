@@ -54,7 +54,7 @@ interests:
   - Algorithmic Trading
 
 education:
-  - area: PhD Computational Finance
+  - area: Ph.D. Computational Finance
     institution: Indian Institute of Technology Mandi
     date_start: 2021-08-07
     date_end: ''
@@ -63,18 +63,21 @@ education:
     # button:
      # text: 'Read Thesis'
      # url: 'https://example.com'
-  - area: Masters Applied Mathematics
+     
+  - area: M.Sc. in Applied Mathematics
     institution: Indian Institute of Technology Mandi
     date_start: 2018-08-14
     date_end: 2020-06-30
     summary: |
+      - **Thesis**: Financial Decision making using Machine Learning Techniques
+      - **Supervisor**: Prof. [Manoj Thakur](https://som.iitmandi.ac.in/people/faculty/manoj-thakur)
       GPA: 9.03/10
 
    #   Courses included:
    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Honors in Mathenatics
+  - area: BSc Honors in Mathematics
     institution: University of Delhi
     date_start: 2014-07-01
     date_end: 2017-06-30
