@@ -7,6 +7,3 @@ menu:
     weight: 50
 ---
 
-# 🏆 Achievements
-
-
