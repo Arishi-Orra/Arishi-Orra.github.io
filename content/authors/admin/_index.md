@@ -71,7 +71,7 @@ education:
     summary: |
       - **Thesis**: Financial Decision making using Machine Learning Techniques
       - **Supervisor**: Prof. [Manoj Thakur](https://som.iitmandi.ac.in/people/faculty/manoj-thakur)
-      GPA: 9.03/10
+        # GPA: 9.03/10
 
    #   Courses included:
    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -82,7 +82,7 @@ education:
     date_start: 2014-07-01
     date_end: 2017-06-30
     summary: |
-      GPA: 75%
+     # GPA: 75%
       
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
