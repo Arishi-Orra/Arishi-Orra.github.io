@@ -82,7 +82,7 @@ education:
     date_start: 2014-07-01
     date_end: 2017-06-30
     summary: |
-     # GPA: 75%
+     <!-- GPA: 75% -->
       
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
