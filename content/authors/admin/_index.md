@@ -80,7 +80,7 @@ education:
     institution: University of Delhi
     date_start: 2014-07-01
     date_end: 2017-06-30
-     summary: |
+    summary: |
       GPA: 75%
       
     #  Courses included:
