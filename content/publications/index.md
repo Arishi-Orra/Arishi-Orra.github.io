@@ -2,6 +2,7 @@
 title: "Publications"
 type: page
 layout: single
+markup: html
 menu:
   main:
     name: Publications
