@@ -59,8 +59,5 @@ features:
   privacy_pack:
     enable: false
 
-page:
-  reading_time: false
-  sharing: false
-  show_date: false
+
 
