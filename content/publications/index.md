@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 type: page
+reading_time: false
 menu:
   main:
     name: Publications
