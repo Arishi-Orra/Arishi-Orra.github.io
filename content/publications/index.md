@@ -11,10 +11,8 @@ menu:
 
 <ul>
   <li>
-    <strong>Deep Reinforcement Learning for Investor-Specific Portfolio Optimization: A Volatility-Guided Asset Selection Approach</strong><br>
-    <strong>Arishi Orra</strong>, Aryan Bhambu, Himanshu Choudhary, Manoj Thakur, Selvaraju Natarajan <br>
-    <em>Advances in Financial AI Workshop, ICLR</em>, 2025<br>
-    <a href="https://arxiv.org/abs/2505.03760" target="_blank">View Paper</a>
+    <a href="https://arxiv.org/abs/2505.03760" target="_blank"> Deep Reinforcement Learning for Investor-Specific Portfolio Optimization: A Volatility-Guided Asset Selection Approach.</a>
+    <strong>Arishi Orra</strong>, Aryan Bhambu, Himanshu Choudhary, Manoj Thakur, Selvaraju Natarajan. <em>Advances in Financial AI Workshop, ICLR</em>, 2025.
   </li>
   <br>
 
