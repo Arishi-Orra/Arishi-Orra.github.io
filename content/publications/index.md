@@ -12,7 +12,7 @@ menu:
 
 <ol>
   <li style="font-size: 18px;">
-    <a href="https://arxiv.org/abs/2505.03760" target="_blank" style="color: blue; font-weight: bold;">
+    <a href="https://arxiv.org/abs/2505.03760" target="_blank" style="color: #00008B; font-weight: bold;">
       Deep Reinforcement Learning for Investor-Specific Portfolio Optimization: A Volatility-Guided Asset Selection Approach
     </a>.
     <strong>Arishi Orra</strong>, Aryan Bhambu, Himanshu Choudhary, Manoj Thakur, Selvaraju Natarajan.
