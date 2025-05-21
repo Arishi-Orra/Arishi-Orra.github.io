@@ -2,6 +2,7 @@
 title: "Publications"
 type: page
 reading_time: false
+sharing: false
 menu:
   main:
     name: Publications
