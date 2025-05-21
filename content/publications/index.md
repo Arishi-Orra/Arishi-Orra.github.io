@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 type: page
-layout: publications
+layout: single
 menu:
   main:
     name: Publications
