@@ -7,7 +7,6 @@ menu:
     weight: 40
 ---
 
-<div style="max-width: 1000px; margin: 0 auto;">
   
 <h3>Conference Publications</h1>
 
