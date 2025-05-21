@@ -16,7 +16,7 @@ menu:
       Deep Reinforcement Learning for Investor-Specific Portfolio Optimization: A Volatility-Guided Asset Selection Approach
     </a>.
     <strong>Arishi Orra</strong>, Aryan Bhambu, Himanshu Choudhary, Manoj Thakur, Selvaraju Natarajan.
-    <span style="color: mediumseagreen; font-style: italic;">Advances in Financial AI Workshop, ICLR</span>, 2025.
+    <span style="color: mediumseagreen; font-style: italic;">Advances in Financial AI Workshop, ICLR</span>, (2025).
   </li>
 
   <li>
@@ -25,7 +25,6 @@ menu:
     <em>Proceedings of the 5th ACM International Conference on AI in Finance</em>, 2024<br>
     <a href="https://dl.acm.org/doi/abs/10.1145/3677052.3698595" target="_blank">View Paper</a>
   </li>
-  <br>
 
   <li>
     <strong>Machine Learning-Based Hybrid Models for Trend Forecasting in Financial Instruments</strong><br>
@@ -33,7 +32,6 @@ menu:
     <em>Soft Computing for Problem Solving: Proceedings of the SocProS</em>, 2022<br>
     <a href="https://link.springer.com/chapter/10.1007/978-981-19-6525-8_26" target="_blank">View Paper</a>
   </li>
-  <br>
 
   <li>
     <strong>Modified Iterative Shrinkage Thresholding Algorithm for Image De-blurring in Medical Imaging</strong><br>
