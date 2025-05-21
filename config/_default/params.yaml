@@ -62,3 +62,5 @@ features:
 page:
   reading_time: false
   sharing: false
+  show_date: false
+
