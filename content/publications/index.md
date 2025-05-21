@@ -1,8 +1,7 @@
 ---
 title: "Publications"
 type: page
-reading_time: false
-sharing: false
+date: ''
 menu:
   main:
     name: Publications
