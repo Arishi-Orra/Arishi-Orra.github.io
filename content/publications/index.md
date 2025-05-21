@@ -1,23 +1,24 @@
 ---
 title: "Publications"
-type: page
+type: 
 menu:
   main:
     name: Publications
     weight: 40
 ---
 
+<div style="max-width: 1000px; margin: 0 auto;">
+  
 <h3>Conference Publications</h1>
 
 <ol>
   <li style="font-size: 18px;">
-    <a href="https://arxiv.org/abs/2505.03760" target="_blank" style="color: violet; font-weight: bold;">
+    <a href="https://arxiv.org/abs/2505.03760" target="_blank" style="color: tomato; font-weight: bold;">
       Deep Reinforcement Learning for Investor-Specific Portfolio Optimization: A Volatility-Guided Asset Selection Approach
     </a>.
     <strong>Arishi Orra</strong>, Aryan Bhambu, Himanshu Choudhary, Manoj Thakur, Selvaraju Natarajan.
     <span style="color: mediumseagreen; font-style: italic;">Advances in Financial AI Workshop, ICLR</span>, 2025.
   </li>
-  <br>
 
   <li>
     <strong>Dynamic Reinforced Ensemble using Bayesian Optimization for Stock Trading</strong><br>
